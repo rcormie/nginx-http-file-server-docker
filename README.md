@@ -1,4 +1,4 @@
-# nginx-http-fileserver-docker
+# nginx-http-file-server-docker
 
 This repository contains a Docker Compose and Nginx configuration setup designed for serving files over HTTP. The service is configured to run on port 80 of your local machine and serve files located in the /data directory on your host system.
 Components
